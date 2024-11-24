@@ -1,0 +1,13 @@
+body{
+    background-color: #24353F;
+}
+.login .card{
+    background-color: #24353F;
+    box-shadow: 0px 10px 30px #000000;
+}
+.login a{
+    text-decoration: none;
+}
+.login a:hover{
+    text-decoration: underline;
+}
